@@ -8,4 +8,4 @@ To RUN
 
 2> Download DogiIdentification-dataset from [https://www.kaggle.com/prashantkashyap/dog-breed-identification-dataset/downloads/dog-breed-identification-dataset.zip/1] and put it in the Input folder.
 
-
+3> Download Resnet Model from https://www.kaggle.com/keras/resnet50 and put it in the Input folder.
